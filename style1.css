@@ -14,7 +14,7 @@ a{
     height: 100vh;
     background: url(https://www.wallpaperup.com/uploads/wallpapers/2015/07/12/749425/777819736cb7e58c1c67081ca7f0b770-700.jpg);
     object-fit: contain;
-    background-repeat:;
+    
 }
 nav{
     display: flex;
@@ -39,7 +39,7 @@ nav ul li a:hover{
     color: #fd4766;
 }
 nav ul li a:after{
-    content: "";
+    
     position: absolute;
     left: 0;
     width: 0;
