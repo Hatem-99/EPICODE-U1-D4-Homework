@@ -13,11 +13,11 @@ let currentYear = 2022;
 
 let birthYear = currentYear - age;
 
-console.log( birthYear );
+console.log( "I was born on the"  ,  birthYear );
 
 //seconed homework//
 
-"Ingredients"
+//"Ingredients"//
 
 let spaghetti = 400;
 let guanciale = 250;
@@ -28,5 +28,5 @@ let blackPepper = 4;
 
 let carbonara = spaghetti + guanciale + eggYolks + romanoCheese + blackPepper ;
 
-console.log(carbonara)
+console.log( "all the ingredients sum up to", carbonara)
 
